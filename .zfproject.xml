@@ -25,6 +25,8 @@
         <dbTableDirectory>
           <dbTableFile dbTableName="Guestbook"/>
         </dbTableDirectory>
+        <modelFile modelName="GuestbookMapper"/>
+        <modelFile modelName="Guestbook"/>
       </modelsDirectory>
       <modulesDirectory enabled="false"/>
       <servicesDirectory enabled="false"/>
